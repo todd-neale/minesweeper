@@ -1,4 +1,4 @@
-#### 💣 Play here: [Minesweeper]()
+#### 💣 Play here: [Minesweeper](https://todd-neale.github.io/minesweeper/)
 
 # Minesweeper
 
